@@ -1,4 +1,4 @@
-package com.alibou.chat.config;
+package com.alibou.websocket.config;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.messaging.simp.config.MessageBrokerRegistry;
